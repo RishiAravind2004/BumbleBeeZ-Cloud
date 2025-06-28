@@ -1,4 +1,10 @@
-// format
-// "<dd/mm/YYYY>: <Tiltle of Update>" : "Content for the updates"
 {
+  "_comment": "This file contains update logs in the format '<dd/mm/YYYY>: <Title>' : '<Details>'",
+  
+  "28/06/2025: Initial Public Release": "BumbleBeeZ launched with account creation, role-based access (Helper & Challenger), and survey features.",
+  "30/06/2025: UI Improvements": "Enhanced button layout and added icons to improve visual navigation. Credits page updated with real-time contributors.",
+  "02/07/2025: Location Services Added": "Integrated location permissions for survey helpers to track real-time geo-coordinates during fieldwork.",
+  "04/07/2025: Bug Fixes & Performance Optimization": "Fixed crash on login screen for some Android users. Optimized backend response time by 30%.",
+  "06/07/2025: Notification System Integrated": "Push notifications are now live using OneSignal. Users will receive updates about new tasks and feedback.",
+  "10/07/2025: Accessibility Updates": "Improved screen reader support and added keyboard navigation for visually impaired users."
 }
